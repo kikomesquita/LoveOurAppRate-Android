@@ -1,0 +1,3 @@
+rootProject.name='LoveOurAppRate'
+include ':app'
+include ':loveouapprate'
